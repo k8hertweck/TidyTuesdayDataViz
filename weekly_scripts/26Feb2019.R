@@ -28,4 +28,4 @@ ggplot(small_trains) +
                  size=delayed_number,
                  color=delay_cause),
              alpha=0.3)
-ggsave("figures/26Feb2019.jpg")
+ggsave("figures/26Feb2019.jpg", width = 8, height = 4)
