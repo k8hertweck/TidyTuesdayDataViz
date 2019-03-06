@@ -5,6 +5,8 @@ install.packages("devtools")
 devtools::install_github("thebioengineer/tidytuesdayR")
 install.packages("rlang")
 
+# load package
+library(tidytuesdayR)
+
 # test
 tt_data<-tt_load("2019-01-15")
-
