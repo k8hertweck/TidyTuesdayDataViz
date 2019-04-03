@@ -1,7 +1,7 @@
 #### 26 Feb 2019 ####
 
+library(tidyverse)
 library(tidytuesdayR)
-library(ggplot2)
 
 # download this week's data
 tt_data<-tt_load("2019-02-26")
