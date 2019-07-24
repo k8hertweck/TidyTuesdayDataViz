@@ -1,4 +1,4 @@
-#### 16 Apr 2019 ####
+#### 16 Apr 2019 Women in research ####
 
 library(tidyverse)
 library(tidytuesdayR)

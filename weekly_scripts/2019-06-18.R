@@ -1,4 +1,4 @@
-#### 18 June 2019 ####
+#### 18 June 2019 Christmas bird counts ####
 
 library(tidyverse)
 library(tidytuesdayR)
