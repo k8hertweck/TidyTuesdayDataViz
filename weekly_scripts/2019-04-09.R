@@ -15,5 +15,5 @@ full_trains <- tt_data$full_trains
 # boxplot
 ggplot(small_trains, aes(x=delay_cause, 
                          y=delayed_number)) +
-  geom_boxplot(outlier.shape = NA, color='gray', alpha=0.75)
+  geom_boxplot(outlier.shape = NA, color='gray', alpha=0.75) +
 ggsave("figures/DATE.jpg", width = 8, height = 4)
