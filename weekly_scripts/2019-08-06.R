@@ -5,3 +5,5 @@ library(tidytuesdayR)
 
 # import this week's data
 bob_ross <- read_csv("data_out/bob_ross.csv")
+
+## Data viz
